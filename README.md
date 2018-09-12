@@ -1,3 +1,3 @@
 # hello-word
 Just another repository
-Hi all, i'm a juonior coder; I get 
+Hi all, i'm a juonior coder :)
